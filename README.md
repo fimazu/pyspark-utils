@@ -1,5 +1,5 @@
 # pyspark-utils
-Some util Pyspark functions for Data transformation
+Some useful Pyspark functions for Data transformation
 
 Utils: General Shared Functions <BR>
 ** Description: Notebook created to deliver some common use Functions in Databricks to make our lives easier.<BR><BR>
